@@ -1,8 +1,9 @@
-# XAUUSD Price Change Pattern (PCP) Prediction using Machine Learning
+# XAUUSD Pivot Candlestick Pattern (PCP) Prediction using Machine Learning
 
-## Project Overview
+## Project Overview (Technical Analysis Made Easy- Using Pivots)
 
-This project aims to predict the Price Change Pattern (PCP) of XAUUSD (Gold vs. US Dollar) using a machine learning model built with TensorFlow Keras. The PCP is a deterministic pattern identified based on the relationship between the High and Low prices of three consecutive periods (in this case, 15-minute intervals). The model is trained to classify the PCP into two categories: Bullish (potential price increase) and Bearish (potential price decrease).
+This project aims to predict the Pivot Candlestick Pattern (PCP) of XAUUSD (Gold vs. US Dollar) using a machine learning model built with TensorFlow Keras. The PCP is a deterministic pattern identified based on the relationship between the High and Low prices of three consecutive periods (in this case, 15-minute intervals). The model is trained to classify the PCP (pivots) into two categories: Bullish (potential price increase) and Bearish (potential price decrease).
+NB: Pivots point are general reversal points in technical charting.
 
 ## Data Source
 
