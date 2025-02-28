@@ -1,0 +1,4 @@
+name: "XAUUSD-PCP-Trading-Model"  # Your project name
+description: "Predicting PCP patterns in XAUUSD using Machine Learning."  # Project description
+data_file: "/content/drive/MyDrive/PCP Dataset/XAUUSD_M15.csv"  # Path to your dataset file
+model_file: "pcp_model_xauusd.keras"  # Name of your saved model file
